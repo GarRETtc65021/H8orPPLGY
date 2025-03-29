@@ -9,7 +9,6 @@ Garbage collection is the process of automatically identifying and removing thes
 - **Garbage Collection of Containers:** When you delete a Pod in Kubernetes, it's not instantly removed. Instead, it moves to the "Terminating" state, where all of its containers are killed. Even after their execution has stopped, these dead containers still exist in the system, and it's garbage collection's responsibility to remove them.
 - **Garbage Collection of Pods:** When you delete Pods or when Pods become orphaned (i.e., the resources that created them have been deleted), garbage collection cleans up these Pods.
 - **Garbage Collection of Images:** Kubernetes also manages the lifecycle of images inside the nodes. The kubelet performs image garbage collection to remove unused images and free up node disk space.
-
 Here is a simplified flow:
 
 - A Pod is marked for deletion or becomes orphaned.
