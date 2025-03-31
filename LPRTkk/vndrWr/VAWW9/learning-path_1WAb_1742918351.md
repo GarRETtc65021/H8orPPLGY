@@ -1,5 +1,4 @@
 ## 1. Kubernetes Garbage Collection
-
 As a Kubernetes user, you might create, update, and delete various resources over time, such as pods, deployments, and services. These resource management tasks generate temporary and unwanted objects that consume system resources, like memory and storage, without providing any useful functionality. This is where garbage collection comes into play.
 
 Garbage collection is the process of automatically identifying and removing these unwanted resources to maintain a clean and efficient system. In Kubernetes, garbage collection ensures that the system runs smoothly by preventing unnecessary resource usage and freeing up storage space.
