@@ -1,5 +1,4 @@
 # OpenAI Provider
-OPENAI_API_KEY='<add your OpenAI API key here>'
 
 ## Azure OpenAI
 AZURE_OPENAI_API_VERSION='2024-02-01' # Default is set!
