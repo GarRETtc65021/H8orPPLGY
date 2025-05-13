@@ -5,7 +5,6 @@
 # to native line endings on checkout.
 *.rs text eol=lf
 *.toml text eol=lf
-*.frag text eol=lf
 *.vert text eol=lf
 *.wgsl text eol=lf
 
