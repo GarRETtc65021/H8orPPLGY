@@ -44,7 +44,6 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 [1.3.0]
 
-- Adding support for Mumbai (BOM), Zurich (ZRH), Sao Paulo (GRU), Sydney (SYD) regions
 - Adding support to update license type in ATP and ADW Service
 - Adding support for autoscaling in ATP and ADW Service
 
