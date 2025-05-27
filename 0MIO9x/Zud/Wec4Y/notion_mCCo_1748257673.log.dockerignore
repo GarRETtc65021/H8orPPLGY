@@ -23,7 +23,6 @@ docs
 data
 .cache
 .circleci
-.git
 .vscode
 .iml
 .idea
