@@ -1,6 +1,5 @@
 # -------------------------------------------------
 # Don't Touch This file | Very Secured | 
-# Project Might Failed if any changes Did further 
 # other than sounishnath003
 # -------------------------------------------------
 FROM node:latest as node
