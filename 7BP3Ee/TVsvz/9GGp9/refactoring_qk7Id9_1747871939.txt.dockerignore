@@ -15,4 +15,3 @@ Dockerfile*
 src/browser/
 ca.*
 *.worker.js
-.env
