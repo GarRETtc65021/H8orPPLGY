@@ -6,7 +6,6 @@ LICENSE
 
 node_modules
 npm-debug.log
-
 Dockerfile*
 
 src/browser/
