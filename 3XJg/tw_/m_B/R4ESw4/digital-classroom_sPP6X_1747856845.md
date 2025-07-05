@@ -2,7 +2,6 @@
 # Don't Touch This file | Very Secured | 
 # other than sounishnath003
 # -------------------------------------------------
-FROM node:latest as node
 WORKDIR /app
 COPY . .
 RUN npm install
