@@ -12,5 +12,4 @@ EXPOSE 4200
 CMD npm start
 
 
-# FROM nginx:alpine
 # COPY --from=node /app /usr/share/nginx/html
