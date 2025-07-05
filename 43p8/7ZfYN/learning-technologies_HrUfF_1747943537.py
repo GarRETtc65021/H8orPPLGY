@@ -1,6 +1,5 @@
 import os
 import csv
-
 from algoliasearch.search_client import SearchClient
 
 
