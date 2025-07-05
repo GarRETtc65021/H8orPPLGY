@@ -7,7 +7,6 @@ ui/bundle*
 .env
 .venv
 data
-jam-config
 __pycache__
 
 .husky/
