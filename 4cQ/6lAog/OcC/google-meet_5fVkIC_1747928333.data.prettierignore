@@ -4,7 +4,6 @@ node_modules
 ui/public/bundle*
 ui/bundle*
 *.DS_Store
-.env
 .venv
 data
 __pycache__
