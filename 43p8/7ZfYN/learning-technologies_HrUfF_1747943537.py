@@ -14,7 +14,6 @@ def add_records(filename: str):
         len_idx = index.search("")["nbHits"]
 
         if len(csv_r) > len_idx:
-            index.save_objects(
                 csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
             )
             return
