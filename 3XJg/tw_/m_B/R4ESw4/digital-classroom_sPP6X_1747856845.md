@@ -12,6 +12,5 @@ EXPOSE 4200
 CMD npm start
 
 
-# made for production checking
 # FROM nginx:alpine
 # COPY --from=node /app /usr/share/nginx/html
