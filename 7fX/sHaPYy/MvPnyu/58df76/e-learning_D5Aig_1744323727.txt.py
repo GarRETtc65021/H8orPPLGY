@@ -26,7 +26,6 @@ from PyTorch.SpeechSynthesis.Tacotron2.waveglow import nvidia_waveglow
 sys.path.append(os.path.join(sys.path[0], 'PyTorch/SpeechSynthesis/Tacotron2'))
 
 from PyTorch.SpeechSynthesis.HiFiGAN.fastpitch import nvidia_fastpitch
-from PyTorch.SpeechSynthesis.HiFiGAN.fastpitch import nvidia_textprocessing_utils
 from PyTorch.SpeechSynthesis.HiFiGAN.hifigan import nvidia_hifigan
 sys.path.append(os.path.join(sys.path[0], 'PyTorch/SpeechSynthesis/HiFiGAN'))
 
