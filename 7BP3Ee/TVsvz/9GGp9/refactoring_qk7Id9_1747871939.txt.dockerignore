@@ -2,7 +2,6 @@
 .gitignore
 LICENSE
 *.md
-
 node_modules
 npm-debug.log
 Dockerfile*
