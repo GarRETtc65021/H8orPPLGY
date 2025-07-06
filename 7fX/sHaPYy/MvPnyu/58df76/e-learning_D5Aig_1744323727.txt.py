@@ -27,7 +27,6 @@ sys.path.append(os.path.join(sys.path[0], 'PyTorch/SpeechSynthesis/Tacotron2'))
 
 from PyTorch.SpeechSynthesis.HiFiGAN.fastpitch import nvidia_fastpitch
 from PyTorch.SpeechSynthesis.HiFiGAN.hifigan import nvidia_hifigan
-sys.path.append(os.path.join(sys.path[0], 'PyTorch/SpeechSynthesis/HiFiGAN'))
 
 from PyTorch.Forecasting.TFT.tft_torchhub import nvidia_tft, nvidia_tft_data_utils
 sys.path.append(os.path.join(sys.path[0], 'PyTorch/Forecasting/TFT'))
