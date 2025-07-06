@@ -7,4 +7,4 @@ node_js:
   - yarn test:unit
 
 after_success:
-  - yarn coveralls
+  - yarn coveralls
