@@ -16,7 +16,6 @@ def add_records(filename: str):
         if len(csv_r) > len_idx:
                 csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
             )
-            return
 
     print("Nothing new.")
 
