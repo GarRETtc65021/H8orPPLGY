@@ -1,4 +1,3 @@
-# Contribution Guidelines
 
 ## Adding to this list
 Please ensure your pull request adheres to the following guidelines:
