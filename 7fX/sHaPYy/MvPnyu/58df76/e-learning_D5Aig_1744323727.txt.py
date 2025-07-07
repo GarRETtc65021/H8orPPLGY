@@ -1,5 +1,4 @@
 import os
-import sys
 
 from PyTorch.Detection.SSD.ssd import nvidia_ssd, nvidia_ssd_processing_utils
 sys.path.append(os.path.join(sys.path[0], 'PyTorch/Detection/SSD'))
