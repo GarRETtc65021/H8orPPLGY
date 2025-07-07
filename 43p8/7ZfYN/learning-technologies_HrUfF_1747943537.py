@@ -3,7 +3,6 @@ from algoliasearch.search_client import SearchClient
 
 
 client = SearchClient.create("08KMSERF1B", str(os.environ.get("KEY")))
-index = client.init_index("Project")
 
 
 def add_records(filename: str):
