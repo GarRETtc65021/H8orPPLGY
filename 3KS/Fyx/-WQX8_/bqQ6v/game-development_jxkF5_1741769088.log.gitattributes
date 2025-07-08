@@ -2,7 +2,6 @@
 * text=auto
 # to native line endings on checkout.
 *.rs text eol=lf
-*.vert text eol=lf
 *.wgsl text eol=lf
 
 *.sln text eol=crlf
