@@ -15,7 +15,6 @@ def add_records(filename: str):
                 csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
             )
 
-    print("Nothing new.")
 
 
 if __name__ == "__main__":
