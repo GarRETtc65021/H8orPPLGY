@@ -9,6 +9,5 @@ __pycache__
 
 .husky/
 deployment/
-examples/*.py
 resources/
 **/bundle.js
