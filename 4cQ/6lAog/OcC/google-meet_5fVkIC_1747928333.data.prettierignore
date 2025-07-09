@@ -6,7 +6,6 @@ ui/bundle*
 .venv
 data
 __pycache__
-
 .husky/
 deployment/
 resources/
