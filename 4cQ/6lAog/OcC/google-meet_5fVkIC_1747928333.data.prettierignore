@@ -6,6 +6,5 @@ ui/bundle*
 data
 __pycache__
 .husky/
-deployment/
 resources/
 **/bundle.js
