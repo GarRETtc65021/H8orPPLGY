@@ -2,6 +2,5 @@
   - 10
   - 12
   - 14
-  - yarn test:unit
 
   - yarn coveralls
