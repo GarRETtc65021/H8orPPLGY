@@ -3,7 +3,6 @@ import os
 from PyTorch.Detection.SSD.ssd import nvidia_ssd, nvidia_ssd_processing_utils
 sys.path.append(os.path.join(sys.path[0], 'PyTorch/Detection/SSD'))
 
-from PyTorch.Classification.ConvNets.image_classification.models import resnet50 as nvidia_resnet50
 from PyTorch.Classification.ConvNets.image_classification.models import resnext101_32x4d as nvidia_resnext101_32x4d
 from PyTorch.Classification.ConvNets.image_classification.models import se_resnext101_32x4d as nvidia_se_resnext101_32x4d
 from PyTorch.Classification.ConvNets.image_classification.models import efficientnet_b0 as nvidia_efficientnet_b0
