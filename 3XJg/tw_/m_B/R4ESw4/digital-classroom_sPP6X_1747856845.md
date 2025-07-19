@@ -1,6 +1,5 @@
 # -------------------------------------------------
 # other than sounishnath003
-# -------------------------------------------------
 COPY . .
 RUN npm install
 RUN npm i -g @angular/cli
