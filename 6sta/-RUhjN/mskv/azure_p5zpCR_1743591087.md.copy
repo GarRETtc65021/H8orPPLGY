@@ -1,6 +1,5 @@
 # OpenAI Provider
 
-AZURE_OPENAI_API_KEY='<add your AOAI key here>'
 AZURE_OPENAI_ENDPOINT='<add your AOIA service endpoint here>'
 AZURE_OPENAI_DEPLOYMENT='<add your chat completion model name here>' 
 
