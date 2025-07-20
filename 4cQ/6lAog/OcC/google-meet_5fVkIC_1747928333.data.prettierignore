@@ -1,6 +1,5 @@
 .idea
 *.iml
-ui/public/bundle*
 ui/bundle*
 .venv
 data
