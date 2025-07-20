@@ -8,6 +8,5 @@ def add_records(filename: str):
                 csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
 
 
-
 if __name__ == "__main__":
     add_records("projects.csv")
