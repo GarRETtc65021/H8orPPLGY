@@ -1,5 +1,4 @@
 # From: https://docs.github.com/en/github/getting-started-with-github/configuring-git-to-handle-line-endings
-* text=auto
 # to native line endings on checkout.
 *.rs text eol=lf
 *.wgsl text eol=lf
