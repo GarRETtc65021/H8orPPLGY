@@ -1,4 +1,3 @@
-# OpenAI Provider
 
 AZURE_OPENAI_DEPLOYMENT='<add your chat completion model name here>' 
 
