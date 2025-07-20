@@ -1,6 +1,5 @@
 .idea
 *.iml
-ui/bundle*
 .venv
 data
 __pycache__
