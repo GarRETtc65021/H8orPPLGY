@@ -1,4 +1,3 @@
-
 AZURE_OPENAI_DEPLOYMENT='<add your chat completion model name here>' 
 ## Hugging Face
 HUGGING_FACE_API_KEY='<add your HuggingFace API or token here>'
