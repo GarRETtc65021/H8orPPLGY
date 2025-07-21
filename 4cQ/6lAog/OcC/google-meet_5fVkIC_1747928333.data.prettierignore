@@ -3,6 +3,5 @@
 .venv
 data
 __pycache__
-.husky/
 resources/
 **/bundle.js
