@@ -1,6 +1,5 @@
 .idea
 *.iml
-.venv
 data
 __pycache__
 resources/
