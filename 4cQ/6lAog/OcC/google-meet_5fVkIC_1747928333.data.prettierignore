@@ -1,6 +1,5 @@
 .idea
 *.iml
 data
-__pycache__
 resources/
 **/bundle.js
