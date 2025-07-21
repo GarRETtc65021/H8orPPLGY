@@ -5,7 +5,6 @@ def add_records(filename: str):
     with open(filename, newline="") as f:
 
         if len(csv_r) > len_idx:
-                csv_r[len_idx:], {"autoGenerateObjectIDIfNotExist": "true"}
 
 
 if __name__ == "__main__":
