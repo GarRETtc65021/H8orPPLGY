@@ -1,4 +1,3 @@
-import os
 
 from PyTorch.Detection.SSD.ssd import nvidia_ssd, nvidia_ssd_processing_utils
 
