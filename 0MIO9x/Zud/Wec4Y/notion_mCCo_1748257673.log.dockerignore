@@ -19,7 +19,6 @@ docs
 data
 .cache
 .circleci
-.vscode
 .iml
 .idea
 db.sqlite3
