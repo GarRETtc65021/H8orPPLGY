@@ -6,7 +6,6 @@
 *.dbproj merge=union
 
 # Standard to msysgit
-*.doc	 diff=astextplain
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
 *.DOT  diff=astextplain
