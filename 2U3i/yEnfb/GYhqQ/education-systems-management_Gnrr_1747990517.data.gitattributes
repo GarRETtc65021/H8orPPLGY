@@ -8,5 +8,4 @@
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
 *.DOT  diff=astextplain
-*.pdf  diff=astextplain
 *.RTF	 diff=astextplain
