@@ -10,7 +10,6 @@ env.d
 
 # Docs
 docs
-*.log
 
 # Development/test cache & configurations
 data
