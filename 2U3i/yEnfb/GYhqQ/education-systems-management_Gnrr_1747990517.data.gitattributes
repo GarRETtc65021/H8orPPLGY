@@ -3,7 +3,6 @@
 *.sln    merge=union
 *.vbproj merge=union
 *.dbproj merge=union
-
 # Standard to msysgit
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
