@@ -7,7 +7,6 @@ venv
 .DS_Store
 **/.DS_Store
 env.d
-
 # Docs
 docs
 
