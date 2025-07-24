@@ -15,7 +15,6 @@ from PyTorch.Classification.GPUNet.configs.gpunet_torchhub import nvidia_gpunet
 from PyTorch.SpeechSynthesis.Tacotron2.tacotron2 import nvidia_tacotron2
 from PyTorch.SpeechSynthesis.Tacotron2.tacotron2 import nvidia_tts_utils
 from PyTorch.SpeechSynthesis.Tacotron2.waveglow import nvidia_waveglow
-
 from PyTorch.SpeechSynthesis.HiFiGAN.fastpitch import nvidia_fastpitch
 from PyTorch.SpeechSynthesis.HiFiGAN.hifigan import nvidia_hifigan
 
