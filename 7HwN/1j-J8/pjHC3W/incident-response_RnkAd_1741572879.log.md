@@ -1,1 +1,0 @@
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
