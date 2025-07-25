@@ -1,7 +1,6 @@
 # Python
 **/*.pyc
 venv
-.venv
 
 # System-specific files
 .DS_Store
