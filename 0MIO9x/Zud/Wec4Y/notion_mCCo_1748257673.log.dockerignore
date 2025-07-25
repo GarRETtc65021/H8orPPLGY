@@ -10,7 +10,6 @@ env.d
 
 # Development/test cache & configurations
 data
-.cache
 .circleci
 .iml
 .idea
