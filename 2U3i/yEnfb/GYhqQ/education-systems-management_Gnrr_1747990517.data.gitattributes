@@ -1,6 +1,5 @@
 * text=auto
 
-*.sln    merge=union
 *.vbproj merge=union
 *.dbproj merge=union
 # Standard to msysgit
