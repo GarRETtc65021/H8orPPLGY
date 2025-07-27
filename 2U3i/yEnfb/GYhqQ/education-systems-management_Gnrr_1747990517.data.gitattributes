@@ -3,4 +3,3 @@
 *.vbproj merge=union
 *.DOC	 diff=astextplain
 *.docx diff=astextplain
-*.DOT  diff=astextplain
