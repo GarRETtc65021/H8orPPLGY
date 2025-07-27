@@ -15,5 +15,3 @@ data
 db.sqlite3
 .pylint.d
 .pytest_cache
-
-# Frontend
