@@ -1,7 +1,6 @@
 # Python
 **/*.pyc
 
-# System-specific files
 .DS_Store
 **/.DS_Store
 env.d
