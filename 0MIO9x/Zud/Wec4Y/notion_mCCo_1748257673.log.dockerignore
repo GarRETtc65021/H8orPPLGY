@@ -3,7 +3,6 @@
 .DS_Store
 **/.DS_Store
 env.d
-# Docs
 
 # Development/test cache & configurations
 data
