@@ -1,6 +1,5 @@
 # Python
 **/*.pyc
-.DS_Store
 **/.DS_Store
 env.d
 
