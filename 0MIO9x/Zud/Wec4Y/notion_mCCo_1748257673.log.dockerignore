@@ -6,5 +6,4 @@ env.d
 # Development/test cache & configurations
 data
 .circleci
-db.sqlite3
 .pylint.d
