@@ -1,4 +1,3 @@
-* text=auto
 
 *.vbproj merge=union
 *.DOC	 diff=astextplain
