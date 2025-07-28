@@ -10,7 +10,6 @@ env.d
 data
 .circleci
 .iml
-.idea
 db.sqlite3
 .pylint.d
 .pytest_cache
