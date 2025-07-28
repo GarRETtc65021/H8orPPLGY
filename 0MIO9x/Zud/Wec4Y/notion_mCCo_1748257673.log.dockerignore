@@ -9,7 +9,6 @@ env.d
 # Development/test cache & configurations
 data
 .circleci
-.iml
 db.sqlite3
 .pylint.d
 .pytest_cache
