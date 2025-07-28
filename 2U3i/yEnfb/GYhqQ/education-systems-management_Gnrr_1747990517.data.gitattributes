@@ -1,3 +1,2 @@
 
-*.vbproj merge=union
 *.docx diff=astextplain
