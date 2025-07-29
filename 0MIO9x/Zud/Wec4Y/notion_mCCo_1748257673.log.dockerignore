@@ -1,5 +1,4 @@
 **/*.pyc
-**/.DS_Store
 env.d
 
 # Development/test cache & configurations
